@@ -1,2 +1,3 @@
+!target/release/line-parser
 /target
 **/*.rs.bk
